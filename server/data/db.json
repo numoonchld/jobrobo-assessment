@@ -1,0 +1,25 @@
+{
+    "categories": [
+        "hardware",
+        "pharmacy",
+        "seafood",
+        "meats",
+        "munchies",
+        "masalas",
+        "dairy",
+        "vegetable",
+        "fruit"
+    ],
+    "subcategories": [
+        {
+            "subCategory": "first aid",
+            "category": "pharmacy"
+        },
+        {
+            "subCategory": "hardware-a",
+            "category": "hardware"
+        }
+    ],
+    "subsubcategories": [],
+    "products": []
+}
